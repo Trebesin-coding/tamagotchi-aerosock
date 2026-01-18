@@ -1,3 +1,4 @@
-# Sem odevzdávat Tamagochi
+dostupno zde(nechci si porizovat domenu)
+http://78.47.154.217/
 
-*nezapomeňte odevzdávat také obrázky (spritesheety a podobně)*
+https://github.com/aerosock/tamagochi
