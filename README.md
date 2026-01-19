@@ -1,5 +1,7 @@
 dostupno zde(nechci si porizovat domenu)
 http://78.47.154.217/
+pozor aby to bylo http a na mobilu si musíte zapnout desktop mode v prohlížeči 
+
 
 https://github.com/aerosock/tamagochi
 
